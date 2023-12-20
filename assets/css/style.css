@@ -108,7 +108,7 @@ body.show-panel #page #content * {
 .count-down {
     margin-top: 20px;
     margin-bottom: 10px;
-    color: #000;
+    color: #ffffff;
 }
 .count-down .countdown-row {}
 .count-down .countdown-row .countdown-section {
@@ -140,7 +140,7 @@ body.show-panel #page #content * {
     margin-bottom: -30px;
     position: relative;
     margin-right: 50px;
-    text-shadow: 0 5px 16px rgba(0,0,0,.4)
+    text-shadow: 0 5px 16px rgba(26, 26, 26, 0.4)
 }
 .count-down .countdown-row .countdown-period {
     opacity: .5;
@@ -162,7 +162,7 @@ body.show-panel #page #content * {
     height: 5px;
     width: 5px;
     left: -25px;
-    color:#000
+    color:#ffffff
 }
 .center {
     text-align: center
@@ -179,7 +179,7 @@ body.show-panel #page #content * {
     font-size: 100px
 }
 #content h1, #content h2, #content h3, #content p {
-    color: #030303
+    color: #ffffff
 }
 /*
 #content {
@@ -732,7 +732,7 @@ p {
     color: #fff
 }
 .btn.btn-default {
-    color: #363636;
+    color: #ffffff;
     background-color: #fff;
     border-color: #fff
 }
