@@ -13,12 +13,12 @@ $(document).ready(function($) {
                 $body.addClass("loading-done");
                 setTimeout(function() {
                     $body.addClass("hide-loading-screen");
-                }, 500);
+                }, 250);
                 $.each( $(".animate"), function (i) {
                     var $this = $(this);
                     setTimeout(function(){
                         $this.addClass("show-it");
-                    }, i * 100);
+                    }, i * 50);
                 });
             });
         //});
